@@ -64,6 +64,7 @@ this repo shows how online-judge “submit → wait → get result” pipelines 
 
 ## tech stack
 
+- Next.js
 - Node.js
 - Redis (queue + pub/sub)
 - WebSocket (`ws`)
@@ -80,13 +81,6 @@ this repo shows how online-judge “submit → wait → get result” pipelines 
 | websocket lib | unknown proprietary | raw `ws` (no socket.io) |
 
 ---
-
-## goal
-
-not production.  
-not a clone.
-
-learning + architecture clarity.
 
 
 

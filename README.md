@@ -82,12 +82,5 @@ this repo shows how online-judge “submit → wait → get result” pipelines 
 
 ---
 
-## goal
-
-not production.  
-not a clone.
-
-learning + architecture clarity.
-
 
 
